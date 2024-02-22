@@ -1,5 +1,14 @@
-Esse é o repositório do meu setup inicial para qualquer projeto - testes + live reload + debugging ativos no VSCode
+# Node.js/Javascript - Essential Environment
 
-[Assista o video aqui](https://youtu.be/Eo9ZcvTIgS4)
+## Repository with the essential configuration for a bulletproof node.js development environment
 
-![Como entregar software que funciona de primeira (1)](https://github.com/ErickWendel/setup-tests-debugging-live-reload-nodejs/assets/8060102/0827a099-5f41-49e6-87c4-1d27bdbd57f5)
+- Debugger
+- Test with native node:test
+- Test coverage
+- Hot reload
+- Javascript typings with JSDOCS
+
+Thanks @erickwendell
+
+
+[Fredd Bezerra](https://linkedin.com/in/fredericobezerra)
